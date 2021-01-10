@@ -1,0 +1,22 @@
+SNO,USE,TYPE,IMAGE_ID,QUESTION_TEXT,LEVEL,A,B,C,D,CORRECT_ANSWER,EDITORIAL,CATEGORY
+1,0. ACTIVE,1. Image + Number Entry,9a3c6476-8112-4a7b-ba30-01b045f8fce4,How many hands does the clock of Big Ben Have?,1,,,,,8,There are four faces to the clock of Big Ben,Entertainment
+2,3. INCOMPLETE,1. Image + Number Entry,NO_IMAGE,How many soccer players should each team have on the field at the start of each match?,1,,,,,11,There are eleven players on each team at the start of a match.,Entertainment
+3,0. ACTIVE,4. Text only Multichoice,NO_IMAGE,What does “HTTP” stand for?,2,Hot Text Test Person,HyperText Transfer Protocol,HyperTest Transfer Pro,HandyText Transfer Protocol,B,Hypertext is text displayed on a computer display or other electronic devices with references (hyperlinks) to other text that the reader can immediately access.,Entertainment
+4,0. ACTIVE,2. Multichoice Images,NO_IMAGE,Which of these four photos are not identical to the three others?,3,eeb5bb6d-6855-4559-a2f7-9fc3b359372b,09eaced4-f090-408e-9daf-bf73f2764082,15c38c02-48da-4879-8de7-8b782d4316bc,222f7225-d679-4d6b-803b-c559f7f6af34,C,The people in the shade are not visible in one of the images. ,Entertainment
+5,3. INCOMPLETE,0. Image + Text Entry,NO_IMAGE,What gets wetter the more it dries?,1,,,,,towel|a towel,"A towel dries whatever it is in contact with, but gets wetter doing it.",Entertainment
+6,3. INCOMPLETE,0. Image + Text Entry,NO_IMAGE,What word is spelled incorrectly in every single dictionary?,1,,,,,Incorrectly,What else would it be?,Entertainment
+7,3. INCOMPLETE,3. Single Image Multichoice,NO_IMAGE,How many numbers can you see in this image?,1,3,7,5,10,10,There are 10 numbers in this image.,Entertainment
+8,3. INCOMPLETE,3. Single Image Multichoice,NO_IMAGE,How many circles can you see in this image?,1,16,8,12,6,16,"Stare at the middle, and you'll se that there are in fact 16 circles!",Entertainment
+9,3. INCOMPLETE,3. Single Image Multichoice,NO_IMAGE,How many animals can you find in the image?,1,3,5,9,16,16,There are in fact 16 animals in this image!,Entertainment
+10,3. INCOMPLETE,0. Image + Text Entry,NO_IMAGE,What goes up but never comes down?,1,,,,,age|your age|yourage,You never get any younger!,Entertainment
+11,0. ACTIVE,4. Text only Multichoice,NO_IMAGE,What do cows drink?,4,Milk,Beer,Water,Coffee,C,"Cows drink water, but people associate them with milk",Entertainment
+12,0. ACTIVE,4. Text only Multichoice,NO_IMAGE,Is it legal for a man to marry his widow’s sister?,5,Yes,No,,,B,It would illegal because the man is dead,Entertainment
+13,0. ACTIVE,4. Text only Multichoice,NO_IMAGE,"If you were alone in a house at night, and had an oil lamp,candle and firewood and you only have one match, which would you light first?",6,Lamp,Candle,Firewood,Match,D,You'd light the match first so that you can light the rest,Entertainment
+14,0. ACTIVE,4. Text only Multichoice,NO_IMAGE,How many birthdays does a typical person have? ,7,1,84,40,76,A,"A person only has one birthday, the rest are just celebrating it",Entertainment
+15,0. ACTIVE,0. Image + Text Entry,8cb67e88-f4e2-468a-986b-98e93ff1925c,Which side of this cat has the most hair?,8,,,,,outside|the outside,The outside of the cat has the most hair,Entertainment
+16,0. ACTIVE,0. Image + Text Entry,ca5d5608-3744-473f-ace8-eb09689126b2,"What can you hold in your right hand, but not in your left?",9,,,,,your left hand|left hand|left|lefthand,You can't hold your right hand in itself,Entertainment
+17,0. ACTIVE,0. Image + Text Entry,f6402bff-5e69-4106-a0a7-aba87632f54d,"Before Mt. Everest was discovered, what was the highest mountain in the world?",1,,,,,mt Everest|mt. Everest|everest|mount everest|mnt everest,Mt. Everest was still the highest in the world. It just had not been discovered yet!,Entertainment
+18,0. ACTIVE,1. Image + Number Entry,4c20f659-6b25-4890-8aec-0173ef62f257,How many months have 28 days?,1,,,,,12,All of them have 28 days at least!,Entertainment
+19,0. ACTIVE,3. Single Image Multichoice,fd7303e9-c3be-458d-90e7-815684a075e9,Which one is the air view of the tower on the left? ,1,A,B,C,D,A,Paying attention to the size of the circles is key to solving this,Entertainment
+20,0. ACTIVE,0. Image + Text Entry,50f9c42b-4f93-4ae4-b0b4-fa6917fa810c,Look at the picture and name the colours in the order. One colour perfectly matches its name. Which word is it? ,1,,,,,blue,Blue is the only colour that matches,Entertainment
+21,0. ACTIVE,1. Image + Text Entry,50f9c42b-4f93-4ae4-b0b4-fa6917fa8103,dskjbskbskbkjb,2,,,,,K,jnsdj sdjnc kjsd vkjsd vkjsd vj ,Entertainment
