@@ -3,13 +3,13 @@ import pandas as pd
 import csv
 import json
 
-df = pd.read_csv(r"C:\Users\avata\Downloads\Imp.csv", encoding='unicode_escape')
+df = pd.read_csv(r"Imp.csv", encoding='unicode_escape')
 df.head(3)
 data = []
 My_answers = []
 FreeQuestions = []
 
-with open(r"C:\Users\avata\Downloads\Imp.csv", "r") as f:
+with open(r"Imp.csv", "r") as f:
     reader = csv.reader(f)
     next(reader)
     for row in reader:
@@ -22,7 +22,7 @@ with open(r"C:\Users\avata\Downloads\Imp.csv", "r") as f:
 def My_fun(n):
     return My_answers[n]
 
-with open(r"C:\Users\avata\Downloads\Imp.csv", "r") as f:
+with open(r"Imp.csv", "r") as f:
     reader = csv.reader(f)
     next(reader)
     count = 0
@@ -45,7 +45,7 @@ for items in data:
 
 Final_dict = {"FreeQuestions": list(FreeQuestions)}
 
-with open(r"C:\Users\avata\Downloads\file.json", "w") as f:
+with open(r"file.json", "w") as f:
     json.dump(Final_dict, f, indent=4)
 
 
